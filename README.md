@@ -1,6 +1,7 @@
-# demand-forecasting-inventory-optimization
-Demand forecasting, ABC analysis, EOQ, safety stock and reorder points for the top 10 products of the Online Retail II dataset. Built in Google Sheets.
+# Demand Forecasting and Inventory Optimization
+
 A complete demand-to-inventory workflow on real retail data: weekly demand forecasting, ABC analysis, EOQ, safety stock and reorder points.
+
 **Dataset:** Online Retail II (UK online giftware retailer, Dec 2009 to Nov 2011), cleaned from 1,067,371 to 1,008,690 valid rows.
 **Tools:** Google Sheets (forecasting, ABC analysis, EOQ, safety stock and reorder point).
 
@@ -29,7 +30,7 @@ Assumed costs and lead time; demand is gross sales (partial returns not netted);
 
 ## Files
 - `PROJECT_2_DEMAND_FORECASTING_INVENTORY.xlsx`: full workbook (one tab per product, ABC analysis, summary)
-- `Project2_Report_Demand_Forecasting_Inventory.pdf`: full report
+- `Project2_Report_Demand_Forecasting_Inventory.docx`: full report
 - `OR2_weekly_demand_top10.csv` and `OR2_product_table_for_ABC.csv`: cleaned input data
 - `Forecast_results_all_10_products.csv`: forecast comparison
 
