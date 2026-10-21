@@ -32,7 +32,6 @@ Assumed costs and lead time; demand is gross sales (partial returns not netted);
 - `PROJECT_2_DEMAND_FORECASTING_INVENTORY.xlsx`: full workbook (one tab per product, ABC analysis, summary)
 - `Project2_Report_Demand_Forecasting_Inventory.docx`: full report
 - `OR2_weekly_demand_top10.csv` and `OR2_product_table_for_ABC.csv`: cleaned input data
-- `Forecast_results_all_10_products.csv`: forecast comparison
 
 ## Author
 Ukkusuri Bharath (Roll No. 124107009), Production and Industrial Engineering, National Institute of Technology Kurukshetra. Open to feedback.
